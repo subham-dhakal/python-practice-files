@@ -1,0 +1,5 @@
+{
+	"course":"Python Programming",
+	"has_exam":true,
+	"grades":{"A":90,"C":40,"F":"Fail"}
+}

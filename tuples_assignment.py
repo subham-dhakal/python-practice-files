@@ -1,0 +1,11 @@
+tup=()
+tup+=(3,4,"a")
+print(tup)
+print(tup.index(4))
+set1=set()
+set1.update([3,4,9,"x"])
+print(set1)
+set2={4,9}
+print(set2.issubset(set1))
+set2.clear()
+print(set2)
